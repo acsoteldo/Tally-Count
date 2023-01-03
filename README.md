@@ -22,3 +22,14 @@ The function should also print the name of the candidate who received the greate
 number of votes. In the event of a tie, one of the candidates with the greatest number of
 votes should be chosen at random and deemed the winner. You may import the random
 package for this question.
+
+
+
+if v is ["Anne", "Bob", "Clare", "Dan", "Anne", "Bob", "Anne", "Clare", "Anne", "Clare", "Bob", "Clare", "Anne", "Bob"], the function will output the following:
+
+```
+Anne: 4
+Bob: 4
+Clare: 5
+Winner: Clare
+```
